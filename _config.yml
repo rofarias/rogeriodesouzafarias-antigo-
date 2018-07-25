@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://github.com/rofarias/rogeriodesouzafarias"
+baseurl: "https://rofarias.github.io/rogeriodesouzafarias/"
+url: "https://rogeriodesouzafarias.org"
 title: Rogério de Souza Farias # site's title
 description: "Sítio Eletrônico Pessoal" # used by search engines
 
@@ -40,7 +40,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: @rofarias # "twitterro username"
   vimeo:
   wordpress:
   youtube:
