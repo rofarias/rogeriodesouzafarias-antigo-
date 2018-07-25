@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://github.com/rofarias/rogeriodesouzafarias"
 title: Rogério de Souza Farias # site's title
 description: "Sítio Eletrônico Pessoal" # used by search engines
